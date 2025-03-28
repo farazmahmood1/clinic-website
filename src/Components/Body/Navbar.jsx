@@ -16,7 +16,7 @@ const Navbar = () => {
                             <li className="nav-item px-2"><a className="nav-link" href="#Staff">Staff</a></li>
                             <li className="nav-item px-2"><a className="nav-link" href="#Blogs">Blogs </a></li>
                             <li className="nav-item px-2"><a className="nav-link" href="#ContactUs">Contact</a></li>
-                        </ul><a className="btn btn-sm btn-outline-primary rounded-pill order-1 order-lg-0 ms-lg-4">Sign In</a>
+                        </ul>
                     </div>
                 </div>
             </nav>
